@@ -1,5 +1,11 @@
 # restaurant-css-framework
 
-- mobile first
+## Link to the project :
+
+https://guillaumelambermont.github.io/restaurant-css-framework/
+
+
+
+
 - planning first (croquis versions smartphone et destop)
-- link to demo : https://guillaumelambermont.github.io/restaurant-css-framework/
+- check if other than div for navbarNav

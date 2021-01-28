@@ -46,8 +46,44 @@
       </nav>
     </header>
 
-    <section class="container">
+    <section class="container locations">
+      <form>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">First name</label>
+          <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Last name</label>
+          <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Email address</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
 
+        <div class="form-group">
+          <label for="exampleFormControlSelect1">How many?</label>
+          <select class="form-control" id="exampleFormControlSelect1">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+            <option>7</option>
+            <option>8</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlTextarea1">Any food allergies or request?</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <label for="meeting-time">Choose a date and time :</label>
+        <input type="datetime-local" id="meeting-time" name="meeting-time" value="2021-01-30T19:30" min="2021-01-021T00:00" max="2022-06-14T00:00">
+        <div class="col-sm-10">
+          <button type="submit" class="btn btn-secondary">Book a table</button>
+        </div>
+      </form>
     </section>
   </main>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
