@@ -14,7 +14,7 @@ I finished following the instructions, so I'll be exploring new things and hope 
 
 ## Map of the project :
 
-![I used MindMup to render this plan](images/planning.jpg "MindMup Plan")
+![I used MindMup to render this plan](images/planning.png "MindMup Plan")
 
 ## Credit :
 
