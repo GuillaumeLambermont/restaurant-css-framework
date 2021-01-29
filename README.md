@@ -12,7 +12,13 @@ I used Bootstrap to accomplish some of the features of the website (navbar, form
 
 I finished following the instructions, so I'll be exploring new things and hope to add them to the website before the deadline. **It certainly need some style adjustments to make it more modern**, I'll work on that.
 
-Credit : I used Huntsplash for the images, here are the picture owners (thank you guys !) :
+## Map of the project :
+
+![I used MindMup to render this plan](images/planning.jpg "MindMup Plan")
+
+## Credit :
+
+I used Huntsplash for the images, here are the picture owners (thank you guys !) :
 - Louis Hansel Shotsoflouis
 - Oliver Sjostrom
 
